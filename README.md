@@ -25,6 +25,7 @@
    - cv2 - (For reading and writing images, image manipulation, computer vision tasks, and more)
    - os - (To perform various operations related to file and directory manipulation, such as navigating the file system, creating directories, deleting files)
    - re (Regular Expressions) - (For text processing)
+     
 ## Workflow
 
    To get started with BizCardX Data Extraction, follow the steps below:
