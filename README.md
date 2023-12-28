@@ -19,11 +19,12 @@
 ## Libraries/Modules used for the project!
 
    - Pandas - (To Create a DataFrame with the scraped data)
-   - mysql.connector - (To store and retrieve the data)
+   - pymysql - (To store and retrieve the data)
    - Streamlit - (To Create Graphical user Interface)
    - EasyOCR - (To extract text from images)
-   
-   
+   - cv2 - (For reading and writing images, image manipulation, computer vision tasks, and more)
+   - os - (To perform various operations related to file and directory manipulation, such as navigating the file system, creating directories, deleting files)
+   - re (Regular Expressions) - (For text processing)
 ## Workflow
 
    To get started with BizCardX Data Extraction, follow the steps below:
