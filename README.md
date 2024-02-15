@@ -1,5 +1,5 @@
 # BizCardX-Extracting_Business_Card_Data_with_OCR
-bizcardx-extracting-business-card-data-with-ocr-nywdlvp3mvreqz.streamlit.app
+
 ## What is EasyOCR?
 
    EasyOCR, as the name suggests, is a Python package that allows computer vision developers to effortlessly perform Optical Character Recognition.It is a Python library for Optical Character Recognition (OCR) that allows you to easily extract text from images and scanned documents. In my project I am using easyOCR to extract text from **business cards.**
